@@ -1,0 +1,18 @@
+{
+  "name": "hostinnij-dvir",
+  "version": "1.0.0",
+  "description": "Menu for Hostinnij Dvir",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "menu",
+    "hostinnij",
+    "dvir"
+  ],
+  "author": "Ihor Stelmakh",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
